@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo App
 
-![Alt Text](https://github.com/charlyhs24/now-playing/tree/master/public/asset/Demo.PNG)
+![Alt Text](https://github.com/charlyhs24/now-playing/blob/master/public/asset/Demo.PNG)
 
 ## Available Scripts
 
